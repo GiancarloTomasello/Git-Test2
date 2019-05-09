@@ -4,10 +4,8 @@
 
 
 
-
-
-
-var x = 9;
+var y = 10;
+x = 9;
 
 var msg = "No. No dank maymays, brah";
 
