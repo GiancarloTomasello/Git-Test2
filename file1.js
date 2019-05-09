@@ -1,8 +1,8 @@
 //This is the first file
 
 
-var x = 10;
+var x = 9;
 
-var msg = "Wow dank maymays, brah";
+var msg = "No. No dank maymays, brah";
 
-var rockets = "not enough";
+var rockets = "none";
