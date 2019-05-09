@@ -4,3 +4,5 @@
 var x = 10;
 
 var msg = "Wow dank maymays, brah";
+
+var rockets = "not enough";
